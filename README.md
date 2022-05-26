@@ -77,9 +77,10 @@ bool cmpenglish(stu* a, stu* b);
 
 bool cmpcpp(stu* a, stu* b);
 ## 环境部署
-### 1.从microsoft官网下载visual studio communitity，安装c++移动开发模块
-### 2.百度搜索easyx库，根据官网帮助配置相关库
-### 3.clone相关源码，打开sln文件，运行即可
+###
+#### 1.进入微软官网，打开visual studio的下载页面 <https://visualstudio.microsoft.com/> 。
+#### 2.点击下载，选择适合的系统版本安装，visual studio共有community,professional和企业版本，这里推荐使用communuty版本，适合个人用户使用
+#### 
 ## 源码地址
 <https://github.com/weatol/c---->
 ## 联系方式
