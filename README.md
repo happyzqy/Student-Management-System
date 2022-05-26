@@ -78,8 +78,8 @@ bool cmpenglish(stu* a, stu* b);
 bool cmpcpp(stu* a, stu* b);
 ## 环境部署
 ### 一、安装visual studio 2022
-1.进入微软官网，打开visual studio的下载页面 <https://visualstudio.microsoft.com/> 。
-2.点击下载，选择适合的系统版本安装，visual studio共有community,professional和business version，这里推荐使用communuty版本，适合个人用户使用
+1.进入微软官网，打开visual studio的下载页面 <https://visualstudio.microsoft.com/> \
+2.点击下载，选择适合的系统版本安装，visual studio共有community,professional和business version，这里推荐使用communuty版本，适合个人用户使用\
 3.
 ## 源码地址
 <https://github.com/weatol/c---->
