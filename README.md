@@ -78,9 +78,15 @@ bool cmpenglish(stu* a, stu* b);
 bool cmpcpp(stu* a, stu* b);
 ## 环境部署
 ### 一、安装visual studio 2022
-1.进入微软官网，打开visual studio的下载页面 <https://visualstudio.microsoft.com/> \
-2.点击下载，选择适合的系统版本安装，visual studio共有community,professional和business version，这里推荐使用communuty版本，适合个人用户使用\
-3.
+#### 1.进入微软官网，打开visual studio的下载页面 <https://visualstudio.microsoft.com/> 
+#### 2.点击下载，选择适合的系统版本安装，visual studio共有*community*,*professional*和*business version*，这里推荐使用*communuty*版本，适合个人用户使用
+#### 3.尽量安装在默认路径，有些tool必须安装在系统盘，在配置visual studio 2022的时候，选择*使用c++的桌面开发*，点击安装，等待片刻即可
+#### 4.安装完毕后需要重启
+### 二、安装Easyx库
+#### 1.百度搜索Easyx，打开<https://easyx.cn/>，直接下载即可
+#### 2.打开exe文件，会自动检索系统中存在的visual studio版本，选择2022版本即可，点击安装，等待安装完毕即可
+### 三、运行文件
+#### 下载源码，保存到合适路径，选择sln文件，选择打开路径，选择visual studio 2022打开，直接运行即可
 ## 源码地址
 <https://github.com/weatol/c---->
 ## 联系方式
